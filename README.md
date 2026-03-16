@@ -14,6 +14,14 @@ This project also introduces **data persistence** — your program saves data to
 
 ---
 
+## More Projects
+
+You can access this project and more in this separate repository:
+
+[student-interview-prep](https://github.com/ShamShamsw/student-interview-prep.git)
+
+---
+
 ## The Importance of Comments
 
 In this project, focus on **architecture comments** — comments that explain how pieces fit together, not just what one line does.
